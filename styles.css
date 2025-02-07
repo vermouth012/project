@@ -33,6 +33,7 @@ h2, h3 {
 
 p {
     font-family: 'Montserrat', sans-serif;
+    text-indent: 30px;
     text-align: justify;
     line-height: 1.8;
     color: #210124;
